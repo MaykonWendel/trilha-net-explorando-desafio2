@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\bin\Debug\net9.0\Desafio2.0.exe
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\bin\Debug\net9.0\Desafio2.0.deps.json
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\bin\Debug\net9.0\Desafio2.0.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\bin\Debug\net9.0\Desafio2.0.dll
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\bin\Debug\net9.0\Desafio2.0.pdb
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\obj\Debug\net9.0\Desafio2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\obj\Debug\net9.0\Desafio2.0.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\obj\Debug\net9.0\Desafio2.0.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\obj\Debug\net9.0\Desafio2.0.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\obj\Debug\net9.0\Desafio2.0.dll
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\obj\Debug\net9.0\refint\Desafio2.0.dll
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\obj\Debug\net9.0\Desafio2.0.pdb
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\obj\Debug\net9.0\Desafio2.0.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desafios\Desafio2.0\obj\Debug\net9.0\ref\Desafio2.0.dll
